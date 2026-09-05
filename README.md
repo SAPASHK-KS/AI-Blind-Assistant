@@ -1,4 +1,4 @@
-# 🤖 AI Blind Assistant
+# AI Blind Assistant
 
 An AI-powered assistant that describes surroundings aloud for visually impaired users. Captures a scene via camera, analyzes it with **Gemini Vision AI**, and speaks a natural-language description using text-to-speech.
 
@@ -8,10 +8,10 @@ Two modes are included:
 
 ## Features
 
-- 📸 Real-time scene description from a camera snapshot
-- 🗣️ Audio narration via text-to-speech (gTTS)
-- 🔁 Auto mode (desktop version): describes the scene every 5 seconds
-- ⌨️ Simple controls: `SPACE` to describe, `A` for auto mode, `Q` to quit
+- Real-time scene description from a camera snapshot
+- Audio narration via text-to-speech (gTTS)
+- Auto mode (desktop version): describes the scene every 5 seconds
+- Simple controls: `SPACE` to describe, `A` for auto mode, `Q` to quit
 
 ## Project Structure
 
@@ -76,10 +76,5 @@ python main.py
 - **gTTS** — text-to-speech
 - **Pillow** — image handling
 
-## Disclaimer
-
-This is an assistive prototype, not a certified accessibility device. It should not replace mobility aids, guide dogs, or professional orientation & mobility training.
-
-## License
 
 [MIT](LICENSE)
