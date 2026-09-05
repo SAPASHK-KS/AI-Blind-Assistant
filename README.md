@@ -75,6 +75,3 @@ python main.py
 - **Google Gemini API** (`google-genai`) — scene understanding
 - **gTTS** — text-to-speech
 - **Pillow** — image handling
-
-
-[MIT](LICENSE)
